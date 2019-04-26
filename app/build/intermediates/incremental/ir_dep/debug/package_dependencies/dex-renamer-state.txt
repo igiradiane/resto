@@ -1,0 +1,4 @@
+#Fri Apr 26 14:51:01 CAT 2019
+base.0=C\:\\Users\\Teacher\\AndroidStudioProjects\\bourbon\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
